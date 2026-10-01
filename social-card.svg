@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Andrew Smith — commercial apps, websites, and custom software</title>
+  <desc id="desc">A cinematic black software interface with vivid lime and orange accents.</desc>
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#4b43ff" stop-opacity=".55"/><stop offset="1" stop-color="#4b43ff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1a1c21"/><stop offset="1" stop-color="#0b0c0f"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#07080a"/>
+  <circle cx="930" cy="315" r="360" fill="url(#glow)"/>
+  <g stroke="#fff" stroke-opacity=".06"><path d="M0 90h1200M0 540h1200M76 0v630M1124 0v630"/><path stroke-dasharray="3 12" d="M605 0v630"/></g>
+  <text x="76" y="63" fill="#e8ff47" font-family="Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="3">ANDREW / SMITH</text>
+  <circle cx="1116" cy="56" r="6" fill="#e8ff47"/><text x="1096" y="62" text-anchor="end" fill="#fff" fill-opacity=".58" font-family="Courier New, monospace" font-size="14">AVAILABLE</text>
+  <text x="76" y="200" fill="#fff" font-family="Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="-4">I BUILD SOFTWARE</text>
+  <text x="76" y="284" fill="#fff" font-family="Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="-4">THAT FEELS</text>
+  <text x="76" y="372" fill="#e8ff47" font-family="Georgia, serif" font-size="92" font-style="italic">inevitable.</text>
+  <text x="78" y="432" fill="#fff" fill-opacity=".58" font-family="Arial, sans-serif" font-size="21">Commercial apps · websites · internal tools · plugins · automation</text>
+  <g transform="translate(790 134) rotate(4)">
+    <rect width="310" height="324" rx="25" fill="url(#panel)" stroke="#fff" stroke-opacity=".2"/>
+    <circle cx="32" cy="30" r="5" fill="#e8ff47"/><text x="50" y="36" fill="#fff" fill-opacity=".56" font-family="Courier New, monospace" font-size="14">SYSTEM / ONLINE</text>
+    <circle cx="155" cy="164" r="92" fill="none" stroke="#e8ff47" stroke-width="2" stroke-dasharray="8 12"/>
+    <circle cx="155" cy="164" r="56" fill="#e8ff47"/><text x="155" y="176" text-anchor="middle" fill="#07080a" font-family="Arial, sans-serif" font-size="34" font-weight="800">AS</text>
+    <rect x="25" y="270" width="260" height="30" rx="15" fill="#4b43ff"/><text x="155" y="291" text-anchor="middle" fill="#fff" font-family="Courier New, monospace" font-size="12">DESIGN × ENGINEERING</text>
+  </g>
+  <rect x="0" y="540" width="1200" height="90" fill="#ff542f"/>
+  <text x="76" y="594" fill="#07080a" font-family="Courier New, monospace" font-size="20" font-weight="700">ANDREWSMITH.APP</text>
+  <text x="1124" y="594" text-anchor="end" fill="#07080a" font-family="Courier New, monospace" font-size="17" font-weight="700">MISSISSIPPI / AVAILABLE REMOTELY</text>
+</svg>

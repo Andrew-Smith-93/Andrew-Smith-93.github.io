@@ -1,0 +1,17 @@
+{
+  "name": "Andrew Smith",
+  "short_name": "Andrew Smith",
+  "description": "Commercial-grade applications, websites, scripts, plugins, integrations, automation, and custom software designed and built by Andrew Smith.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080a",
+  "theme_color": "#07080a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
